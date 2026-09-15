@@ -16,6 +16,7 @@ __pycache__/
 .vscode/
 *.swp
 .DS_Store
+.gigaide/
 
 test_cache.json
 *.tmp
