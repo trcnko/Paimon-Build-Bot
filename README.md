@@ -10,6 +10,8 @@ AI-помощник по Genshin Impact, который собирает акт�
 
 ## 📸 Демонстрация
 
+![Bot](images/bot.png)
+
 ### Примеры ответов
 
 **Приветствие:**
@@ -19,10 +21,10 @@ AI-помощник по Genshin Impact, который собирает акт�
 ![Build example](images/build_example.png)
 
 **Общий вопрос по игре:**
-![Build example](images/general_question.png)
+![General question](images/general_question.png)
 
 **Запрос билда несуществующего персонажа:**
-![Build example](images/non_existing_build.png)
+![Build don't exist](images/non_existing_build.png)
 
 ## 🏗️ Архитектура
 
